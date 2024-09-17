@@ -3,11 +3,11 @@ GenAI App -> Gemini Vision: Smart Multilingual Invoice Decoder
 Sample Use Cases:
 
 Users can upload any invoice and ask the following questions:
-"What's this invoice about?"
-"Translate it for me"
-"Break down the charges"
-"What's the tax situation?"
-"Which currency is it in?"
+  "What's this invoice about?"
+  "Translate it for me"
+  "Break down the charges"
+  "What's the tax situation?"
+  "Which currency is it in?"
 
 -----------------------------------------------------------------------------------------------------------------
 🚀 Unlocking the Power of Generative AI with Google Gemini and Streamlit! 🚀
