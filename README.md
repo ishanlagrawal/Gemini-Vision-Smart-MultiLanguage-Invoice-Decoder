@@ -1,3 +1,24 @@
+# GenAI Smart Invoice Processor — Gemini Vision
+
+Extract invoice data from images and answer questions in multiple languages using Google Gemini Vision.
+
+## What it does
+- Upload any invoice image (JPG/PNG/PDF)
+- Gemini Vision extracts: vendor, date, line items, totals
+- Ask questions about the invoice in any language
+- Returns structured answers in the same language
+
+## Tech Stack
+Python · Google Gemini Vision API · Streamlit
+
+## Run locally
+pip install -r requirements.txt
+streamlit run app.py
+
+## Built by
+Ishan Agrawal — linkedin.com/in/ishanagrawal07
+
+-------------------------------------------------------------------------------------------------------------
 GenAI App -> Gemini Vision: Smart Multilingual Invoice Decoder
 
 Sample Use Cases:
